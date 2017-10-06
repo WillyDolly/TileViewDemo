@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TileViewDemo</string>
+    <item type="id" name="subLayoutA"/>
+</resources>
